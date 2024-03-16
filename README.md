@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Anusha</h1>
 <h6 align = "center"><i>Pronouns: She/Her </i></h6>
 <div align = "center"><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYyOGRmMjExNjViYmUwN2MxNmFjM2Q5NDU4OTBhODA2NjA3MzgyZSZjdD1n/UMyvk17PIo3SiZQWju/giphy.gif" width = "300" height = "300"></div>
-<h3 align="center">Consulting Analyst, Dancer and Educator</h3>
+<h3 align="center">Consulting Analyst, Artist and Educator</h3>
 <h4 align = "center"><i> Finding interesections between art, technology and education to solve the world's problems </i> </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnushaRamachandran&label=Profile%20views&color=0e75b6&style=flat" alt="AnushaRamachandran" /> </p>
