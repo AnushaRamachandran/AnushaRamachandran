@@ -35,7 +35,7 @@ and have so far taught 50+ students from India, the US, Europe, Australia and Si
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anusha36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v5chauhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anusha36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusha36" height="30" width="40" /></a>
 </p>
 
 <h4> Looking forward to connecting with you! </h4>
